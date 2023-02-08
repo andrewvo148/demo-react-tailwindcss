@@ -16,7 +16,7 @@ function App() {
         <span>Language selection</span>
       </div>
       <div className="container flex flex-col p-6 border mt-0">
-        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4">
+        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4 mb-1">
           <div className="mr-4 basis-20 flex-shrink-0">
             <img src={unitedKingdom} alt="kingdom" />
           </div>
@@ -28,7 +28,7 @@ function App() {
           </span>
         </div>
 
-        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4">
+        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4 mb-1">
           <div className="mr-4 basis-20 flex-shrink-0">
           <img src={germany} alt="germany" />
           </div>
@@ -39,7 +39,7 @@ function App() {
             <i className="far fa-arrow-alt-circle-right text-[#193451]" aria-hidden="true"></i>
           </span>
         </div>
-        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4">
+        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4 mb-1">
           <div className="mr-4 basis-20 flex-shrink-0">
           <img src={chile} alt="chile" />
           </div>
@@ -51,7 +51,7 @@ function App() {
           </span>
         </div>
 
-        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4">
+        <div className="flex items-center hover:bg-[#193451] hover:text-white border hover:rounded-2xl px-5 py-4 mb-1">
           <div className="mr-4 basis-20 flex-shrink-0">
           <img src={spain} alt="spain" />
           </div>
